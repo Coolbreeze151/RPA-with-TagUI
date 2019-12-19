@@ -1,0 +1,25 @@
+
+START - automation started - Thu Dec 19 2019 21:21:29 GMT+0800 (Malay Peninsula Standard Time)
+
+LIVE MODE - type done to quit
+ [TAGUI][STARTED]
+[TAGUI][0] - listening for inputs
+[TAGUI][1] - https://sg.finance.yahoo.com/quote/cjlu.si/
+[TAGUI][1] - listening for inputs
+[TAGUI][2] - exist_result = exist('Trsdu(0.3s) Fw(b) Fz(36px) Mb(-4px) D(ib)').toString()
+[TAGUI][2] - listening for inputs
+[TAGUI][3] - dump exist_result to tagui_python.txt
+[TAGUI][3] - listening for inputs
+[TAGUI][4] - read Trsdu(0.3s) Fw(b) Fz(36px) Mb(-4px) D(ib) to read_result
+[TAGUI][4] - listening for inputs
+[TAGUI][5] - dump read_result to tagui_python.txt
+[TAGUI][5] - listening for inputs
+[TAGUI][6] - exist_result = exist('Bxz(bb) Bdbw(1px) Bdbs(s) Bdc($seperatorColor) H(36px) Ta(end) Fw(600) Lh(14px) Trsdu(0.3s)').toString()
+[TAGUI][6] - listening for inputs
+[TAGUI][7] - dump exist_result to tagui_python.txt
+[TAGUI][7] - listening for inputs
+[TAGUI][FINISHED]
+
+https://sg.finance.yahoo.com/quote/cjlu.si/ - CJLU.SI 0.9300 -0.0100 -1.06% : NetLink - Yahoo Finance
+FINISH - automation finished - 24.9s
+
