@@ -1,0 +1,360 @@
+
+START - automation started - Wed Dec 25 2019 18:10:10 GMT+0800 (Malay Peninsula Standard Time)
+
+LIVE MODE - type done to quit
+ [TAGUI][STARTED]
+[TAGUI][0] - listening for inputs
+[TAGUI][1] - https://sg.finance.yahoo.com/quote/CJLU.SI/
+[TAGUI][1] - listening for inputs
+[TAGUI][2] - exist_result = exist('//*[@id="quote-header-info"]/div[3]/div/div/span[1]').toString()
+[TAGUI][2] - listening for inputs
+[TAGUI][3] - dump exist_result to tagui_python.txt
+[TAGUI][3] - listening for inputs
+[TAGUI][4] - read //*[@id="quote-header-info"]/div[3]/div/div/span[1] to read_result
+[TAGUI][4] - listening for inputs
+[TAGUI][5] - dump read_result to tagui_python.txt
+[TAGUI][5] - listening for inputs
+[TAGUI][6] - exist_result = exist('//*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1').toString()
+[TAGUI][6] - listening for inputs
+[TAGUI][7] - dump exist_result to tagui_python.txt
+[TAGUI][7] - listening for inputs
+[TAGUI][8] - read //*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1 to read_result
+[TAGUI][8] - listening for inputs
+[TAGUI][9] - dump read_result to tagui_python.txt
+[TAGUI][9] - listening for inputs
+[TAGUI][10] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[6]/td[2]').toString()
+[TAGUI][10] - listening for inputs
+[TAGUI][11] - dump exist_result to tagui_python.txt
+[TAGUI][11] - listening for inputs
+[TAGUI][12] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[6]/td[2] to read_result
+[TAGUI][12] - listening for inputs
+[TAGUI][13] - dump read_result to tagui_python.txt
+[TAGUI][13] - listening for inputs
+[TAGUI][14] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[3]/td[2]/span').toString()
+[TAGUI][14] - listening for inputs
+[TAGUI][15] - dump exist_result to tagui_python.txt
+[TAGUI][15] - listening for inputs
+[TAGUI][16] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[3]/td[2]/span to read_result
+[TAGUI][16] - listening for inputs
+[TAGUI][17] - dump read_result to tagui_python.txt
+[TAGUI][17] - listening for inputs
+[TAGUI][18] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[4]/td[2]/span').toString()
+[TAGUI][18] - listening for inputs
+[TAGUI][19] - dump exist_result to tagui_python.txt
+[TAGUI][19] - listening for inputs
+[TAGUI][20] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[4]/td[2]/span to read_result
+[TAGUI][20] - listening for inputs
+[TAGUI][21] - dump read_result to tagui_python.txt
+[TAGUI][21] - listening for inputs
+[TAGUI][22] - exist_result = exist('//*[@id="quote-nav"]/ul/li[7]/a/span').toString()
+[TAGUI][22] - listening for inputs
+[TAGUI][23] - dump exist_result to tagui_python.txt
+[TAGUI][23] - listening for inputs
+[TAGUI][24] - click //*[@id="quote-nav"]/ul/li[7]/a/span
+[TAGUI][24] - listening for inputs
+[TAGUI][25] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[4]/span').toString()
+[TAGUI][25] - listening for inputs
+[TAGUI][26] - dump exist_result to tagui_python.txt
+[TAGUI][26] - listening for inputs
+[TAGUI][27] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[4]/span to read_result
+[TAGUI][27] - listening for inputs
+[TAGUI][28] - dump read_result to tagui_python.txt
+[TAGUI][28] - listening for inputs
+[TAGUI][29] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[3]/span').toString()
+[TAGUI][29] - listening for inputs
+[TAGUI][30] - dump exist_result to tagui_python.txt
+[TAGUI][30] - listening for inputs
+[TAGUI][31] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[3]/span to read_result
+[TAGUI][31] - listening for inputs
+[TAGUI][32] - dump read_result to tagui_python.txt
+[TAGUI][32] - listening for inputs
+[TAGUI][33] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[4]/span').toString()
+[TAGUI][33] - listening for inputs
+[TAGUI][34] - dump exist_result to tagui_python.txt
+[TAGUI][34] - listening for inputs
+[TAGUI][35] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[4]/span to read_result
+[TAGUI][35] - listening for inputs
+[TAGUI][36] - dump read_result to tagui_python.txt
+[TAGUI][36] - listening for inputs
+[TAGUI][37] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[3]/span').toString()
+[TAGUI][37] - listening for inputs
+[TAGUI][38] - dump exist_result to tagui_python.txt
+[TAGUI][38] - listening for inputs
+[TAGUI][39] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[3]/span to read_result
+[TAGUI][39] - listening for inputs
+[TAGUI][40] - dump read_result to tagui_python.txt
+[TAGUI][40] - listening for inputs
+[TAGUI][41] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[1]/div[1]/div/a[2]/div/span').toString()
+[TAGUI][41] - listening for inputs
+[TAGUI][42] - dump exist_result to tagui_python.txt
+[TAGUI][42] - listening for inputs
+[TAGUI][43] - click //*[@id="Col1-1-Financials-Proxy"]/section/div[1]/div[1]/div/a[2]/div/span
+[TAGUI][43] - listening for inputs
+[TAGUI][44] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[4]/span').toString()
+[TAGUI][44] - listening for inputs
+[TAGUI][45] - dump exist_result to tagui_python.txt
+[TAGUI][45] - listening for inputs
+[TAGUI][46] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[4]/span to read_result
+[TAGUI][46] - listening for inputs
+[TAGUI][47] - dump read_result to tagui_python.txt
+[TAGUI][47] - listening for inputs
+[TAGUI][48] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[3]/span').toString()
+[TAGUI][48] - listening for inputs
+[TAGUI][49] - dump exist_result to tagui_python.txt
+[TAGUI][49] - listening for inputs
+[TAGUI][50] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[3]/span to read_result
+[TAGUI][50] - listening for inputs
+[TAGUI][51] - dump read_result to tagui_python.txt
+[TAGUI][51] - listening for inputs
+[TAGUI][52] - exist_result = exist('//*[@id="quote-nav"]/ul/li[4]/a').toString()
+[TAGUI][52] - listening for inputs
+[TAGUI][53] - dump exist_result to tagui_python.txt
+[TAGUI][53] - listening for inputs
+[TAGUI][54] - click //*[@id="quote-nav"]/ul/li[4]/a
+[TAGUI][54] - listening for inputs
+[TAGUI][55] - exist_result = exist('//*[@id="Col1-0-KeyStatistics-Proxy"]/section/div[2]/div[3]/div/div[3]/div/table/tbody/tr[2]/td[2]').toString()
+[TAGUI][55] - listening for inputs
+[TAGUI][56] - dump exist_result to tagui_python.txt
+[TAGUI][56] - listening for inputs
+[TAGUI][57] - read //*[@id="Col1-0-KeyStatistics-Proxy"]/section/div[2]/div[3]/div/div[3]/div/table/tbody/tr[2]/td[2] to read_result
+[TAGUI][57] - listening for inputs
+[TAGUI][58] - dump read_result to tagui_python.txt
+[TAGUI][58] - listening for inputs
+[TAGUI][59] - https://sg.finance.yahoo.com/quote/CNE.SI/
+[TAGUI][59] - listening for inputs
+[TAGUI][60] - exist_result = exist('//*[@id="quote-header-info"]/div[3]/div/div/span[1]').toString()
+[TAGUI][60] - listening for inputs
+[TAGUI][61] - dump exist_result to tagui_python.txt
+[TAGUI][61] - listening for inputs
+[TAGUI][62] - read //*[@id="quote-header-info"]/div[3]/div/div/span[1] to read_result
+[TAGUI][62] - listening for inputs
+[TAGUI][63] - dump read_result to tagui_python.txt
+[TAGUI][63] - listening for inputs
+[TAGUI][64] - exist_result = exist('//*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1').toString()
+[TAGUI][64] - listening for inputs
+[TAGUI][65] - dump exist_result to tagui_python.txt
+[TAGUI][65] - listening for inputs
+[TAGUI][66] - read //*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1 to read_result
+[TAGUI][66] - listening for inputs
+[TAGUI][67] - dump read_result to tagui_python.txt
+[TAGUI][67] - listening for inputs
+[TAGUI][68] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[6]/td[2]').toString()
+[TAGUI][68] - listening for inputs
+[TAGUI][69] - dump exist_result to tagui_python.txt
+[TAGUI][69] - listening for inputs
+[TAGUI][70] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[6]/td[2] to read_result
+[TAGUI][70] - listening for inputs
+[TAGUI][71] - dump read_result to tagui_python.txt
+[TAGUI][71] - listening for inputs
+[TAGUI][72] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[3]/td[2]/span').toString()
+[TAGUI][72] - listening for inputs
+[TAGUI][73] - dump exist_result to tagui_python.txt
+[TAGUI][73] - listening for inputs
+[TAGUI][74] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[3]/td[2]/span to read_result
+[TAGUI][74] - listening for inputs
+[TAGUI][75] - dump read_result to tagui_python.txt
+[TAGUI][75] - listening for inputs
+[TAGUI][76] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[4]/td[2]/span').toString()
+[TAGUI][76] - listening for inputs
+[TAGUI][77] - dump exist_result to tagui_python.txt
+[TAGUI][77] - listening for inputs
+[TAGUI][78] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[4]/td[2]/span to read_result
+[TAGUI][78] - listening for inputs
+[TAGUI][79] - dump read_result to tagui_python.txt
+[TAGUI][79] - listening for inputs
+[TAGUI][80] - exist_result = exist('//*[@id="quote-nav"]/ul/li[7]/a/span').toString()
+[TAGUI][80] - listening for inputs
+[TAGUI][81] - dump exist_result to tagui_python.txt
+[TAGUI][81] - listening for inputs
+[TAGUI][82] - click //*[@id="quote-nav"]/ul/li[7]/a/span
+[TAGUI][82] - listening for inputs
+[TAGUI][83] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[4]/span').toString()
+[TAGUI][83] - listening for inputs
+[TAGUI][84] - dump exist_result to tagui_python.txt
+[TAGUI][84] - listening for inputs
+[TAGUI][85] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[4]/span to read_result
+[TAGUI][85] - listening for inputs
+[TAGUI][86] - dump read_result to tagui_python.txt
+[TAGUI][86] - listening for inputs
+[TAGUI][87] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[3]/span').toString()
+[TAGUI][87] - listening for inputs
+[TAGUI][88] - dump exist_result to tagui_python.txt
+[TAGUI][88] - listening for inputs
+[TAGUI][89] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[3]/span to read_result
+[TAGUI][89] - listening for inputs
+[TAGUI][90] - dump read_result to tagui_python.txt
+[TAGUI][90] - listening for inputs
+[TAGUI][91] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[4]/span').toString()
+[TAGUI][91] - listening for inputs
+[TAGUI][92] - dump exist_result to tagui_python.txt
+[TAGUI][92] - listening for inputs
+[TAGUI][93] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[4]/span to read_result
+[TAGUI][93] - listening for inputs
+[TAGUI][94] - dump read_result to tagui_python.txt
+[TAGUI][94] - listening for inputs
+[TAGUI][95] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[3]/span').toString()
+[TAGUI][95] - listening for inputs
+[TAGUI][96] - dump exist_result to tagui_python.txt
+[TAGUI][96] - listening for inputs
+[TAGUI][97] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[3]/span to read_result
+[TAGUI][97] - listening for inputs
+[TAGUI][98] - dump read_result to tagui_python.txt
+[TAGUI][98] - listening for inputs
+[TAGUI][99] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[1]/div[1]/div/a[2]/div/span').toString()
+[TAGUI][99] - listening for inputs
+[TAGUI][100] - dump exist_result to tagui_python.txt
+[TAGUI][100] - listening for inputs
+[TAGUI][101] - click //*[@id="Col1-1-Financials-Proxy"]/section/div[1]/div[1]/div/a[2]/div/span
+[TAGUI][101] - listening for inputs
+[TAGUI][102] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[4]/span').toString()
+[TAGUI][102] - listening for inputs
+[TAGUI][103] - dump exist_result to tagui_python.txt
+[TAGUI][103] - listening for inputs
+[TAGUI][104] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[4]/span to read_result
+[TAGUI][104] - listening for inputs
+[TAGUI][105] - dump read_result to tagui_python.txt
+[TAGUI][105] - listening for inputs
+[TAGUI][106] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[3]/span').toString()
+[TAGUI][106] - listening for inputs
+[TAGUI][107] - dump exist_result to tagui_python.txt
+[TAGUI][107] - listening for inputs
+[TAGUI][108] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[3]/span to read_result
+[TAGUI][108] - listening for inputs
+[TAGUI][109] - dump read_result to tagui_python.txt
+[TAGUI][109] - listening for inputs
+[TAGUI][110] - exist_result = exist('//*[@id="quote-nav"]/ul/li[4]/a').toString()
+[TAGUI][110] - listening for inputs
+[TAGUI][111] - dump exist_result to tagui_python.txt
+[TAGUI][111] - listening for inputs
+[TAGUI][112] - click //*[@id="quote-nav"]/ul/li[4]/a
+[TAGUI][112] - listening for inputs
+[TAGUI][113] - exist_result = exist('//*[@id="Col1-0-KeyStatistics-Proxy"]/section/div[2]/div[3]/div/div[3]/div/table/tbody/tr[2]/td[2]').toString()
+[TAGUI][113] - listening for inputs
+[TAGUI][114] - dump exist_result to tagui_python.txt
+[TAGUI][114] - listening for inputs
+[TAGUI][115] - read //*[@id="Col1-0-KeyStatistics-Proxy"]/section/div[2]/div[3]/div/div[3]/div/table/tbody/tr[2]/td[2] to read_result
+[TAGUI][115] - listening for inputs
+[TAGUI][116] - dump read_result to tagui_python.txt
+[TAGUI][116] - listening for inputs
+[TAGUI][117] - https://sg.finance.yahoo.com/quote/V01.SI/
+[TAGUI][117] - listening for inputs
+[TAGUI][118] - exist_result = exist('//*[@id="quote-header-info"]/div[3]/div/div/span[1]').toString()
+[TAGUI][118] - listening for inputs
+[TAGUI][119] - dump exist_result to tagui_python.txt
+[TAGUI][119] - listening for inputs
+[TAGUI][120] - read //*[@id="quote-header-info"]/div[3]/div/div/span[1] to read_result
+[TAGUI][120] - listening for inputs
+[TAGUI][121] - dump read_result to tagui_python.txt
+[TAGUI][121] - listening for inputs
+[TAGUI][122] - exist_result = exist('//*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1').toString()
+[TAGUI][122] - listening for inputs
+[TAGUI][123] - dump exist_result to tagui_python.txt
+[TAGUI][123] - listening for inputs
+[TAGUI][124] - read //*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1 to read_result
+[TAGUI][124] - listening for inputs
+[TAGUI][125] - dump read_result to tagui_python.txt
+[TAGUI][125] - listening for inputs
+[TAGUI][126] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[6]/td[2]').toString()
+[TAGUI][126] - listening for inputs
+[TAGUI][127] - dump exist_result to tagui_python.txt
+[TAGUI][127] - listening for inputs
+[TAGUI][128] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[6]/td[2] to read_result
+[TAGUI][128] - listening for inputs
+[TAGUI][129] - dump read_result to tagui_python.txt
+[TAGUI][129] - listening for inputs
+[TAGUI][130] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[3]/td[2]/span').toString()
+[TAGUI][130] - listening for inputs
+[TAGUI][131] - dump exist_result to tagui_python.txt
+[TAGUI][131] - listening for inputs
+[TAGUI][132] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[3]/td[2]/span to read_result
+[TAGUI][132] - listening for inputs
+[TAGUI][133] - dump read_result to tagui_python.txt
+[TAGUI][133] - listening for inputs
+[TAGUI][134] - exist_result = exist('//*[@id="quote-summary"]/div[2]/table/tbody/tr[4]/td[2]/span').toString()
+[TAGUI][134] - listening for inputs
+[TAGUI][135] - dump exist_result to tagui_python.txt
+[TAGUI][135] - listening for inputs
+[TAGUI][136] - read //*[@id="quote-summary"]/div[2]/table/tbody/tr[4]/td[2]/span to read_result
+[TAGUI][136] - listening for inputs
+[TAGUI][137] - dump read_result to tagui_python.txt
+[TAGUI][137] - listening for inputs
+[TAGUI][138] - exist_result = exist('//*[@id="quote-nav"]/ul/li[7]/a/span').toString()
+[TAGUI][138] - listening for inputs
+[TAGUI][139] - dump exist_result to tagui_python.txt
+[TAGUI][139] - listening for inputs
+[TAGUI][140] - click //*[@id="quote-nav"]/ul/li[7]/a/span
+[TAGUI][140] - listening for inputs
+[TAGUI][141] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[4]/span').toString()
+[TAGUI][141] - listening for inputs
+[TAGUI][142] - dump exist_result to tagui_python.txt
+[TAGUI][142] - listening for inputs
+[TAGUI][143] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[4]/span to read_result
+[TAGUI][143] - listening for inputs
+[TAGUI][144] - dump read_result to tagui_python.txt
+[TAGUI][144] - listening for inputs
+[TAGUI][145] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[3]/span').toString()
+[TAGUI][145] - listening for inputs
+[TAGUI][146] - dump exist_result to tagui_python.txt
+[TAGUI][146] - listening for inputs
+[TAGUI][147] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[11]/div[1]/div[3]/span to read_result
+[TAGUI][147] - listening for inputs
+[TAGUI][148] - dump read_result to tagui_python.txt
+[TAGUI][148] - listening for inputs
+[TAGUI][149] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[4]/span').toString()
+[TAGUI][149] - listening for inputs
+[TAGUI][150] - dump exist_result to tagui_python.txt
+[TAGUI][150] - listening for inputs
+[TAGUI][151] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[4]/span to read_result
+[TAGUI][151] - listening for inputs
+[TAGUI][152] - dump read_result to tagui_python.txt
+[TAGUI][152] - listening for inputs
+[TAGUI][153] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[3]/span').toString()
+[TAGUI][153] - listening for inputs
+[TAGUI][154] - dump exist_result to tagui_python.txt
+[TAGUI][154] - listening for inputs
+[TAGUI][155] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[5]/div[1]/div[3]/span to read_result
+[TAGUI][155] - listening for inputs
+[TAGUI][156] - dump read_result to tagui_python.txt
+[TAGUI][156] - listening for inputs
+[TAGUI][157] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[1]/div[1]/div/a[2]/div/span').toString()
+[TAGUI][157] - listening for inputs
+[TAGUI][158] - dump exist_result to tagui_python.txt
+[TAGUI][158] - listening for inputs
+[TAGUI][159] - click //*[@id="Col1-1-Financials-Proxy"]/section/div[1]/div[1]/div/a[2]/div/span
+[TAGUI][159] - listening for inputs
+[TAGUI][160] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[4]/span').toString()
+[TAGUI][160] - listening for inputs
+[TAGUI][161] - dump exist_result to tagui_python.txt
+[TAGUI][161] - listening for inputs
+[TAGUI][162] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[4]/span to read_result
+[TAGUI][162] - listening for inputs
+[TAGUI][163] - dump read_result to tagui_python.txt
+[TAGUI][163] - listening for inputs
+[TAGUI][164] - exist_result = exist('//*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[3]/span').toString()
+[TAGUI][164] - listening for inputs
+[TAGUI][165] - dump exist_result to tagui_python.txt
+[TAGUI][165] - listening for inputs
+[TAGUI][166] - read //*[@id="Col1-1-Financials-Proxy"]/section/div[3]/div[1]/div/div[2]/div[7]/div[2]/div[3]/div[1]/div[3]/span to read_result
+[TAGUI][166] - listening for inputs
+[TAGUI][167] - dump read_result to tagui_python.txt
+[TAGUI][167] - listening for inputs
+[TAGUI][168] - exist_result = exist('//*[@id="quote-nav"]/ul/li[4]/a').toString()
+[TAGUI][168] - listening for inputs
+[TAGUI][169] - dump exist_result to tagui_python.txt
+[TAGUI][169] - listening for inputs
+[TAGUI][170] - click //*[@id="quote-nav"]/ul/li[4]/a
+[TAGUI][170] - listening for inputs
+[TAGUI][171] - exist_result = exist('//*[@id="Col1-0-KeyStatistics-Proxy"]/section/div[2]/div[3]/div/div[3]/div/table/tbody/tr[2]/td[2]').toString()
+[TAGUI][171] - listening for inputs
+[TAGUI][172] - dump exist_result to tagui_python.txt
+[TAGUI][172] - listening for inputs
+[TAGUI][173] - read //*[@id="Col1-0-KeyStatistics-Proxy"]/section/div[2]/div[3]/div/div[3]/div/table/tbody/tr[2]/td[2] to read_result
+[TAGUI][173] - listening for inputs
+[TAGUI][174] - dump read_result to tagui_python.txt
+[TAGUI][174] - listening for inputs
+[TAGUI][175] - https://sg.finance.yahoo.com/quote/V02.SI/
+[TAGUI][175] - listening for inputs
+[TAGUI][176] - exist_result = exist('//*[@id="quote-header-info"]/div[3]/div/div/span[1]').toString()
+[TAGUI][176] - listening for inputs
+[TAGUI][177] - dump exist_result to tagui_python.txt
+[TAGUI][177] - listening for inputs
