@@ -1,0 +1,89 @@
+
+START - automation started - Sat Jan 04 2020 16:14:50 GMT+0800 (Malay Peninsula Standard Time)
+
+LIVE MODE - type done to quit
+ [TAGUI][STARTED]
+[TAGUI][0] - listening for inputs
+[TAGUI][1] - https://www.travelocity.com/
+[TAGUI][1] - listening for inputs
+[TAGUI][2] - click (50,50)
+[TAGUI][2] - listening for inputs
+[TAGUI][3] - exist_result = exist('//*[@id="flight-returning-hp-flight"]').toString()
+[TAGUI][3] - listening for inputs
+[TAGUI][4] - dump exist_result to tagui_python.txt
+[TAGUI][4] - listening for inputs
+[TAGUI][5] - click //*[@id="flight-returning-hp-flight"]
+[TAGUI][5] - listening for inputs
+[TAGUI][6] - exist_result = exist('//*[@id="flight-returning-hp-flight"]').toString()
+[TAGUI][6] - listening for inputs
+[TAGUI][7] - dump exist_result to tagui_python.txt
+[TAGUI][7] - listening for inputs
+[TAGUI][8] - type //*[@id="flight-returning-hp-flight"] as [clear]10/10/2020
+[TAGUI][8] - listening for inputs
+[TAGUI][9] - exist_result = exist('//*[@id="flight-departing-hp-flight"]').toString()
+[TAGUI][9] - listening for inputs
+[TAGUI][10] - dump exist_result to tagui_python.txt
+[TAGUI][10] - listening for inputs
+[TAGUI][11] - dclick //*[@id="flight-departing-hp-flight"]
+[TAGUI][11] - listening for inputs
+[TAGUI][12] - exist_result = exist('//*[@id="flight-departing-hp-flight"]').toString()
+[TAGUI][12] - listening for inputs
+[TAGUI][13] - dump exist_result to tagui_python.txt
+[TAGUI][13] - listening for inputs
+[TAGUI][14] - type //*[@id="flight-departing-hp-flight"] as 10/10/2020
+[TAGUI][14] - listening for inputs
+[TAGUI][15] - exist_result = exist('//*[@id="tab-flight-tab-hp"]/span[1]').toString()
+[TAGUI][15] - listening for inputs
+[TAGUI][16] - dump exist_result to tagui_python.txt
+[TAGUI][16] - listening for inputs
+[TAGUI][17] - click //*[@id="tab-flight-tab-hp"]/span[1]
+[TAGUI][17] - listening for inputs
+[TAGUI][18] - exist_result = exist('//*[@id="flight-origin-hp-flight"]').toString()
+[TAGUI][18] - listening for inputs
+[TAGUI][19] - dump exist_result to tagui_python.txt
+[TAGUI][19] - listening for inputs
+[TAGUI][20] - click //*[@id="flight-origin-hp-flight"]
+[TAGUI][20] - listening for inputs
+[TAGUI][21] - exist_result = exist('//*[@id="flight-origin-hp-flight"]').toString()
+[TAGUI][21] - listening for inputs
+[TAGUI][22] - dump exist_result to tagui_python.txt
+[TAGUI][22] - listening for inputs
+[TAGUI][23] - type //*[@id="flight-origin-hp-flight"] as Singapore
+[TAGUI][23] - listening for inputs
+[TAGUI][24] - exist_result = exist('//*[@id="flight-destination-hp-flight"]').toString()
+[TAGUI][24] - listening for inputs
+[TAGUI][25] - dump exist_result to tagui_python.txt
+[TAGUI][25] - listening for inputs
+[TAGUI][26] - click //*[@id="flight-destination-hp-flight"]
+[TAGUI][26] - listening for inputs
+[TAGUI][27] - exist_result = exist('//*[@id="flight-destination-hp-flight"]').toString()
+[TAGUI][27] - listening for inputs
+[TAGUI][28] - dump exist_result to tagui_python.txt
+[TAGUI][28] - listening for inputs
+[TAGUI][29] - type //*[@id="flight-destination-hp-flight"] as Tokyo
+[TAGUI][29] - listening for inputs
+[TAGUI][30] - exist_result = exist('//*[@id="gcw-flights-form-flp"]/div[8]/label/button').toString()
+[TAGUI][30] - listening for inputs
+[TAGUI][31] - dump exist_result to tagui_python.txt
+[TAGUI][31] - listening for inputs
+[TAGUI][32] - exist_result = exist('//*[@id="flight-module-2020-01-04t22:45:00+08:00-coach-sin-dmk-fd-352_2020-01-06t16:40:00+07:00-coach-dmk-sin-fd-351_"]/div[1]/div[1]/div[1]/div/div/div/div[1]/div[2]/span').toString()
+[TAGUI][32] - listening for inputs
+[TAGUI][33] - dump exist_result to tagui_python.txt
+[TAGUI][33] - listening for inputs
+[TAGUI][34] - exist_result = exist('//*[@id="flight-module-2020-01-04t22:45:00+08:00-coach-sin-dmk-fd-352_2020-01-06t16:40:00+07:00-coach-dmk-sin-fd-351_"]/div[1]/div[1]/div[1]/div/div/div/div[2]/div[1]').toString()
+[TAGUI][34] - listening for inputs
+[TAGUI][35] - dump exist_result to tagui_python.txt
+[TAGUI][35] - listening for inputs
+[TAGUI][36] - exist_result = exist('//*[@id="flight-module-2020-01-04t22:45:00+08:00-coach-sin-dmk-fd-352_2020-01-06t16:40:00+07:00-coach-dmk-sin-fd-351_"]/div[1]/div[1]/div[1]/div/div/div/div[1]/div[1]/span[1]').toString()
+[TAGUI][36] - listening for inputs
+[TAGUI][37] - dump exist_result to tagui_python.txt
+[TAGUI][37] - listening for inputs
+[TAGUI][38] - exist_result = exist('//*[@id="flight-module-2020-01-04t22:45:00+08:00-coach-sin-dmk-fd-352_2020-01-06t16:40:00+07:00-coach-dmk-sin-fd-351_"]/div[1]/div[1]/div[2]/div/div[1]/div[1]/span').toString()
+[TAGUI][38] - listening for inputs
+[TAGUI][39] - dump exist_result to tagui_python.txt
+[TAGUI][39] - listening for inputs
+[TAGUI][FINISHED]
+
+https://www.travelocity.com/ - Wander Wisely with Cheap Hotels, Flights, Vacations & Travel Deals | Travelocity
+FINISH - automation finished - 88.8s
+
