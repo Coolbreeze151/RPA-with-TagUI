@@ -1,0 +1,337 @@
+
+START - automation started - Sun Jan 05 2020 22:45:32 GMT+0800 (Malay Peninsula Standard Time)
+
+LIVE MODE - type done to quit
+ [TAGUI][STARTED]
+[TAGUI][0] - listening for inputs
+[TAGUI][1] - https://www.travelocity.com/
+[TAGUI][1] - listening for inputs
+[TAGUI][2] - exist_result = exist('//*[@id="tab-flight-tab-hp"]/span[1]').toString()
+[TAGUI][2] - listening for inputs
+[TAGUI][3] - dump exist_result to tagui_python.txt
+[TAGUI][3] - listening for inputs
+[TAGUI][4] - click //*[@id="tab-flight-tab-hp"]/span[1]
+[TAGUI][4] - listening for inputs
+[TAGUI][5] - click (1300,800)
+[TAGUI][5] - listening for inputs
+[TAGUI][6] - exist_result = exist('//*[@id="flight-returning-hp-flight"]').toString()
+[TAGUI][6] - listening for inputs
+[TAGUI][7] - dump exist_result to tagui_python.txt
+[TAGUI][7] - listening for inputs
+[TAGUI][8] - click //*[@id="flight-returning-hp-flight"]
+[TAGUI][8] - listening for inputs
+[TAGUI][9] - keyboard [ctrl][a]
+[TAGUI][9] - listening for inputs
+[TAGUI][10] - keyboard [backspace]
+[TAGUI][10] - listening for inputs
+[TAGUI][11] - exist_result = exist('//*[@id="flight-returning-hp-flight"]').toString()
+[TAGUI][11] - listening for inputs
+[TAGUI][12] - dump exist_result to tagui_python.txt
+[TAGUI][12] - listening for inputs
+[TAGUI][13] - type //*[@id="flight-returning-hp-flight"] as 10/22/2020
+[TAGUI][13] - listening for inputs
+[TAGUI][14] - exist_result = exist('//*[@id="flight-departing-hp-flight"]').toString()
+[TAGUI][14] - listening for inputs
+[TAGUI][15] - dump exist_result to tagui_python.txt
+[TAGUI][15] - listening for inputs
+[TAGUI][16] - click //*[@id="flight-departing-hp-flight"]
+[TAGUI][16] - listening for inputs
+[TAGUI][17] - keyboard [ctrl][a]
+[TAGUI][17] - listening for inputs
+[TAGUI][18] - keyboard [backspace]
+[TAGUI][18] - listening for inputs
+[TAGUI][19] - exist_result = exist('//*[@id="flight-departing-hp-flight"]').toString()
+[TAGUI][19] - listening for inputs
+[TAGUI][20] - dump exist_result to tagui_python.txt
+[TAGUI][20] - listening for inputs
+[TAGUI][21] - type //*[@id="flight-departing-hp-flight"] as 10/10/2020
+[TAGUI][21] - listening for inputs
+[TAGUI][22] - exist_result = exist('//*[@id="flight-origin-hp-flight"]').toString()
+[TAGUI][22] - listening for inputs
+[TAGUI][23] - dump exist_result to tagui_python.txt
+[TAGUI][23] - listening for inputs
+[TAGUI][24] - click //*[@id="flight-origin-hp-flight"]
+[TAGUI][24] - listening for inputs
+[TAGUI][25] - exist_result = exist('//*[@id="flight-origin-hp-flight"]').toString()
+[TAGUI][25] - listening for inputs
+[TAGUI][26] - dump exist_result to tagui_python.txt
+[TAGUI][26] - listening for inputs
+[TAGUI][27] - type //*[@id="flight-origin-hp-flight"] as Singapore
+[TAGUI][27] - listening for inputs
+[TAGUI][28] - exist_result = exist('//*[@id="flight-destination-hp-flight"]').toString()
+[TAGUI][28] - listening for inputs
+[TAGUI][29] - dump exist_result to tagui_python.txt
+[TAGUI][29] - listening for inputs
+[TAGUI][30] - click //*[@id="flight-destination-hp-flight"]
+[TAGUI][30] - listening for inputs
+[TAGUI][31] - exist_result = exist('//*[@id="flight-destination-hp-flight"]').toString()
+[TAGUI][31] - listening for inputs
+[TAGUI][32] - dump exist_result to tagui_python.txt
+[TAGUI][32] - listening for inputs
+[TAGUI][33] - type //*[@id="flight-destination-hp-flight"] as Tokyo
+[TAGUI][33] - listening for inputs
+[TAGUI][34] - exist_result = exist('/html/body/meso-native-marquee/section/div/div/div[1]/div/div/div[1]/div/section[1]/form/div[8]/label/button').toString()
+[TAGUI][34] - listening for inputs
+[TAGUI][35] - dump exist_result to tagui_python.txt
+[TAGUI][35] - listening for inputs
+[TAGUI][36] - click /html/body/meso-native-marquee/section/div/div/div[1]/div/div/div[1]/div/section[1]/form/div[8]/label/button
+[TAGUI][36] - listening for inputs
+[TAGUI][37] - exist_result = exist('secondary-content overflow-ellipsis inline-children').toString()
+[TAGUI][37] - listening for inputs
+[TAGUI][38] - dump exist_result to tagui_python.txt
+[TAGUI][38] - listening for inputs
+[TAGUI][39] - read secondary-content overflow-ellipsis inline-children to read_result
+[TAGUI][39] - listening for inputs
+[TAGUI][40] - dump read_result to tagui_python.txt
+[TAGUI][40] - listening for inputs
+[TAGUI][41] - exist_result = exist('duration-emphasis').toString()
+[TAGUI][41] - listening for inputs
+[TAGUI][42] - dump exist_result to tagui_python.txt
+[TAGUI][42] - listening for inputs
+[TAGUI][43] - read duration-emphasis to read_result
+[TAGUI][43] - listening for inputs
+[TAGUI][44] - dump read_result to tagui_python.txt
+[TAGUI][44] - listening for inputs
+[TAGUI][45] - exist_result = exist('medium-bold').toString()
+[TAGUI][45] - listening for inputs
+[TAGUI][46] - dump exist_result to tagui_python.txt
+[TAGUI][46] - listening for inputs
+[TAGUI][47] - read medium-bold to read_result
+[TAGUI][47] - listening for inputs
+[TAGUI][48] - dump read_result to tagui_python.txt
+[TAGUI][48] - listening for inputs
+[TAGUI][49] - exist_result = exist('full-bold no-wrap').toString()
+[TAGUI][49] - listening for inputs
+[TAGUI][50] - dump exist_result to tagui_python.txt
+[TAGUI][50] - listening for inputs
+[TAGUI][51] - read full-bold no-wrap to read_result
+[TAGUI][51] - listening for inputs
+[TAGUI][52] - dump read_result to tagui_python.txt
+[TAGUI][52] - listening for inputs
+[TAGUI][53] - dump url() to tagui_python.txt
+[TAGUI][53] - listening for inputs
+[TAGUI][54] - https://www.expedia.com/
+[TAGUI][54] - listening for inputs
+[TAGUI][55] - exist_result = exist('//*[@id="wizard-tabs"]/div[1]/ul/li[1]').toString()
+[TAGUI][55] - listening for inputs
+[TAGUI][56] - dump exist_result to tagui_python.txt
+[TAGUI][56] - listening for inputs
+[TAGUI][57] - click //*[@id="wizard-tabs"]/div[1]/ul/li[1]
+[TAGUI][57] - listening for inputs
+[TAGUI][58] - click (1300,800)
+[TAGUI][58] - listening for inputs
+[TAGUI][59] - exist_result = exist('//*[@id="flight-returning-hp-flight"]').toString()
+[TAGUI][59] - listening for inputs
+[TAGUI][60] - dump exist_result to tagui_python.txt
+[TAGUI][60] - listening for inputs
+[TAGUI][61] - click //*[@id="flight-returning-hp-flight"]
+[TAGUI][61] - listening for inputs
+[TAGUI][62] - keyboard [ctrl][a]
+[TAGUI][62] - listening for inputs
+[TAGUI][63] - keyboard [backspace]
+[TAGUI][63] - listening for inputs
+[TAGUI][64] - exist_result = exist('//*[@id="flight-returning-hp-flight"]').toString()
+[TAGUI][64] - listening for inputs
+[TAGUI][65] - dump exist_result to tagui_python.txt
+[TAGUI][65] - listening for inputs
+[TAGUI][66] - type //*[@id="flight-returning-hp-flight"] as 10/22/2020
+[TAGUI][66] - listening for inputs
+[TAGUI][67] - exist_result = exist('//*[@id="flight-departing-hp-flight"]').toString()
+[TAGUI][67] - listening for inputs
+[TAGUI][68] - dump exist_result to tagui_python.txt
+[TAGUI][68] - listening for inputs
+[TAGUI][69] - click //*[@id="flight-departing-hp-flight"]
+[TAGUI][69] - listening for inputs
+[TAGUI][70] - keyboard [ctrl][a]
+[TAGUI][70] - listening for inputs
+[TAGUI][71] - keyboard [backspace]
+[TAGUI][71] - listening for inputs
+[TAGUI][72] - exist_result = exist('//*[@id="flight-departing-hp-flight"]').toString()
+[TAGUI][72] - listening for inputs
+[TAGUI][73] - dump exist_result to tagui_python.txt
+[TAGUI][73] - listening for inputs
+[TAGUI][74] - type //*[@id="flight-departing-hp-flight"] as 10/10/2020
+[TAGUI][74] - listening for inputs
+[TAGUI][75] - exist_result = exist('//*[@id="flight-origin-hp-flight"]').toString()
+[TAGUI][75] - listening for inputs
+[TAGUI][76] - dump exist_result to tagui_python.txt
+[TAGUI][76] - listening for inputs
+[TAGUI][77] - click //*[@id="flight-origin-hp-flight"]
+[TAGUI][77] - listening for inputs
+[TAGUI][78] - exist_result = exist('//*[@id="flight-origin-hp-flight"]').toString()
+[TAGUI][78] - listening for inputs
+[TAGUI][79] - dump exist_result to tagui_python.txt
+[TAGUI][79] - listening for inputs
+[TAGUI][80] - type //*[@id="flight-origin-hp-flight"] as Singapore
+[TAGUI][80] - listening for inputs
+[TAGUI][81] - exist_result = exist('//*[@id="flight-destination-hp-flight"]').toString()
+[TAGUI][81] - listening for inputs
+[TAGUI][82] - dump exist_result to tagui_python.txt
+[TAGUI][82] - listening for inputs
+[TAGUI][83] - click //*[@id="flight-destination-hp-flight"]
+[TAGUI][83] - listening for inputs
+[TAGUI][84] - exist_result = exist('//*[@id="flight-destination-hp-flight"]').toString()
+[TAGUI][84] - listening for inputs
+[TAGUI][85] - dump exist_result to tagui_python.txt
+[TAGUI][85] - listening for inputs
+[TAGUI][86] - type //*[@id="flight-destination-hp-flight"] as Tokyo
+[TAGUI][86] - listening for inputs
+[TAGUI][87] - exist_result = exist('//*[@id="gcw-flights-form-hp-flight"]/div[7]/label/button/span').toString()
+[TAGUI][87] - listening for inputs
+[TAGUI][88] - dump exist_result to tagui_python.txt
+[TAGUI][88] - listening for inputs
+[TAGUI][89] - click //*[@id="gcw-flights-form-hp-flight"]/div[7]/label/button/span
+[TAGUI][89] - listening for inputs
+[TAGUI][90] - exist_result = exist('secondary-content overflow-ellipsis inline-children').toString()
+[TAGUI][90] - listening for inputs
+[TAGUI][91] - dump exist_result to tagui_python.txt
+[TAGUI][91] - listening for inputs
+[TAGUI][92] - read secondary-content overflow-ellipsis inline-children to read_result
+[TAGUI][92] - listening for inputs
+[TAGUI][93] - dump read_result to tagui_python.txt
+[TAGUI][93] - listening for inputs
+[TAGUI][94] - exist_result = exist('duration-emphasis').toString()
+[TAGUI][94] - listening for inputs
+[TAGUI][95] - dump exist_result to tagui_python.txt
+[TAGUI][95] - listening for inputs
+[TAGUI][96] - read duration-emphasis to read_result
+[TAGUI][96] - listening for inputs
+[TAGUI][97] - dump read_result to tagui_python.txt
+[TAGUI][97] - listening for inputs
+[TAGUI][98] - exist_result = exist('medium-bold').toString()
+[TAGUI][98] - listening for inputs
+[TAGUI][99] - dump exist_result to tagui_python.txt
+[TAGUI][99] - listening for inputs
+[TAGUI][100] - read medium-bold to read_result
+[TAGUI][100] - listening for inputs
+[TAGUI][101] - dump read_result to tagui_python.txt
+[TAGUI][101] - listening for inputs
+[TAGUI][102] - exist_result = exist('full-bold no-wrap').toString()
+[TAGUI][102] - listening for inputs
+[TAGUI][103] - dump exist_result to tagui_python.txt
+[TAGUI][103] - listening for inputs
+[TAGUI][104] - read full-bold no-wrap to read_result
+[TAGUI][104] - listening for inputs
+[TAGUI][105] - dump read_result to tagui_python.txt
+[TAGUI][105] - listening for inputs
+[TAGUI][106] - dump url() to tagui_python.txt
+[TAGUI][106] - listening for inputs
+[TAGUI][107] - https://www.google.com/flights
+[TAGUI][107] - listening for inputs
+[TAGUI][108] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[1]').toString()
+[TAGUI][108] - listening for inputs
+[TAGUI][109] - dump exist_result to tagui_python.txt
+[TAGUI][109] - listening for inputs
+[TAGUI][110] - click //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[1]
+[TAGUI][110] - listening for inputs
+[TAGUI][111] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[1]').toString()
+[TAGUI][111] - listening for inputs
+[TAGUI][112] - dump exist_result to tagui_python.txt
+[TAGUI][112] - listening for inputs
+[TAGUI][113] - type //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[1] as Singapore
+[TAGUI][113] - listening for inputs
+[TAGUI][114] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[2]/div[2]').toString()
+[TAGUI][114] - listening for inputs
+[TAGUI][115] - dump exist_result to tagui_python.txt
+[TAGUI][115] - listening for inputs
+[TAGUI][116] - click //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[2]/div[2]
+[TAGUI][116] - listening for inputs
+[TAGUI][117] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[2]/div[2]').toString()
+[TAGUI][117] - listening for inputs
+[TAGUI][118] - dump exist_result to tagui_python.txt
+[TAGUI][118] - listening for inputs
+[TAGUI][119] - click //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[2]/div[2]
+[TAGUI][119] - listening for inputs
+[TAGUI][120] - exist_result = exist('//*[@id="sb_ifc50"]/input').toString()
+[TAGUI][120] - listening for inputs
+[TAGUI][121] - dump exist_result to tagui_python.txt
+[TAGUI][121] - listening for inputs
+[TAGUI][122] - type //*[@id="sb_ifc50"]/input as Tokyo
+[TAGUI][122] - listening for inputs
+[TAGUI][123] - exist_result = exist('//*[@id="sbse0"]/div[1]/div[1]/span[1]').toString()
+[TAGUI][123] - listening for inputs
+[TAGUI][124] - dump exist_result to tagui_python.txt
+[TAGUI][124] - listening for inputs
+[TAGUI][125] - click //*[@id="sbse0"]/div[1]/div[1]/span[1]
+[TAGUI][125] - listening for inputs
+[TAGUI][126] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[4]/div[1]/div[2]/span').toString()
+[TAGUI][126] - listening for inputs
+[TAGUI][127] - dump exist_result to tagui_python.txt
+[TAGUI][127] - listening for inputs
+[TAGUI][128] - click //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[4]/div[1]/div[2]/span
+[TAGUI][128] - listening for inputs
+[TAGUI][129] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[4]/div[1]/div[2]/span').toString()
+[TAGUI][129] - listening for inputs
+[TAGUI][130] - dump exist_result to tagui_python.txt
+[TAGUI][130] - listening for inputs
+[TAGUI][131] - type //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[4]/div[1]/div[2]/span as 10/10/2020
+[TAGUI][131] - listening for inputs
+[TAGUI][132] - keyboard [ENTER]
+[TAGUI][132] - listening for inputs
+[TAGUI][133] - exist_result = exist('//*[@id="flt-modaldialog"]/div/div[4]/div[2]/div[3]/date-input/input').toString()
+[TAGUI][133] - listening for inputs
+[TAGUI][134] - dump exist_result to tagui_python.txt
+[TAGUI][134] - listening for inputs
+[TAGUI][135] - click //*[@id="flt-modaldialog"]/div/div[4]/div[2]/div[3]/date-input/input
+[TAGUI][135] - listening for inputs
+[TAGUI][136] - exist_result = exist('//*[@id="flt-modaldialog"]/div/div[4]/div[2]/div[3]/date-input/input').toString()
+[TAGUI][136] - listening for inputs
+[TAGUI][137] - dump exist_result to tagui_python.txt
+[TAGUI][137] - listening for inputs
+[TAGUI][138] - type //*[@id="flt-modaldialog"]/div/div[4]/div[2]/div[3]/date-input/input as 22/10/2020
+[TAGUI][138] - listening for inputs
+[TAGUI][139] - keyboard [ENTER]
+[TAGUI][139] - listening for inputs
+[TAGUI][140] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[1]').toString()
+[TAGUI][140] - listening for inputs
+[TAGUI][141] - dump exist_result to tagui_python.txt
+[TAGUI][141] - listening for inputs
+[TAGUI][142] - click //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[2]/div[1]
+[TAGUI][142] - listening for inputs
+[TAGUI][143] - exist_result = exist('//*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[4]/floating-action-button/span').toString()
+[TAGUI][143] - listening for inputs
+[TAGUI][144] - dump exist_result to tagui_python.txt
+[TAGUI][144] - listening for inputs
+[TAGUI][145] - click //*[@id="flt-app"]/div[2]/main[1]/div[4]/div/div[3]/div/div[4]/floating-action-button/span
+[TAGUI][145] - listening for inputs
+[TAGUI][146] - exist_result = exist('gws-flights-results__sort-button').toString()
+[TAGUI][146] - listening for inputs
+[TAGUI][147] - dump exist_result to tagui_python.txt
+[TAGUI][147] - listening for inputs
+[TAGUI][148] - click gws-flights-results__sort-button
+[TAGUI][148] - listening for inputs
+[TAGUI][149] - exist_result = exist('mSPnZKpnf91__menu-item flt-subhead2').toString()
+[TAGUI][149] - listening for inputs
+[TAGUI][150] - dump exist_result to tagui_python.txt
+[TAGUI][150] - listening for inputs
+[TAGUI][151] - click mSPnZKpnf91__menu-item flt-subhead2
+[TAGUI][151] - listening for inputs
+[TAGUI][152] - exist_result = exist('gws-flights__ellipsize').toString()
+[TAGUI][152] - listening for inputs
+[TAGUI][153] - dump exist_result to tagui_python.txt
+[TAGUI][153] - listening for inputs
+[TAGUI][154] - read gws-flights__ellipsize to read_result
+[TAGUI][154] - listening for inputs
+[TAGUI][155] - dump read_result to tagui_python.txt
+[TAGUI][155] - listening for inputs
+[TAGUI][156] - exist_result = exist('gws-flights-results__duration flt-subhead1Normal').toString()
+[TAGUI][156] - listening for inputs
+[TAGUI][157] - dump exist_result to tagui_python.txt
+[TAGUI][157] - listening for inputs
+[TAGUI][158] - read gws-flights-results__duration flt-subhead1Normal to read_result
+[TAGUI][158] - listening for inputs
+[TAGUI][159] - dump read_result to tagui_python.txt
+[TAGUI][159] - listening for inputs
+[TAGUI][160] - exist_result = exist('gws-flights-results__times flt-subhead1').toString()
+[TAGUI][160] - listening for inputs
+[TAGUI][161] - dump exist_result to tagui_python.txt
+[TAGUI][161] - listening for inputs
+[TAGUI][162] - read gws-flights-results__times flt-subhead1 to read_result
+[TAGUI][162] - listening for inputs
+[TAGUI][163] - dump read_result to tagui_python.txt
+[TAGUI][163] - listening for inputs
+[TAGUI][164] - exist_result = exist('flt-subhead1 gws-flights-results__price').toString()
+[TAGUI][164] - listening for inputs
+[TAGUI][165] - dump exist_result to tagui_python.txt
+[TAGUI][165] - listening for inputs
+[TAGUI][166] - read flt-subhead1 gws-flights-results__price to read_result
