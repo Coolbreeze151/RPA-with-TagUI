@@ -4,29 +4,29 @@ Using RPA to automate some of our day to day processes. This repository mainly c
 ## Scrape and Analyze SGX Stocks
 Using RPA to scrape data from Yahoo.com before analyzing and recommending the best SGX stock to consider.
 ![](stock.gif)
-\
+&nbsp;
 
 ## Automated Mailer with Attachments using Gmail
 Using RPA to send out automated mailers.
 ![](mailer.gif)
-\
+&nbsp;
 
 ## Compare Airline Prices
 Using RPA to compare airline prices across various travelling sites.
 ![](airline.gif)
-\
+&nbsp;
 
 ## Compare Product Prices across Ecommerce Sites
 Using RPA to retrieve prices of a specific product across the different Ecommerce sites to make comparisons.
 ![](ecommerce.gif)
-\
+&nbsp;
 
 ## Movie Recommendation and Reviews
 Using RPA to retrieve latest movies to catch along with the trailers, reviews and ratings for them.
 ![](movie.gif)
-\
+&nbsp;
 
 ## Get Snapshots of all Sports League Standings
 Using RPA to retrieve the latest Sports League Standings for the day.
 ![](sports.gif)
-\
+
